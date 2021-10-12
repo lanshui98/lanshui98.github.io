@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi this is Lan Shui
 
 You can use the [editor on GitHub](https://github.com/lanshui98/Lan1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
