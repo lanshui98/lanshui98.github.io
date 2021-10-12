@@ -4,7 +4,7 @@
 
 - **Education**
 
-I obtained my Bachelor's degree of **Mathematics Applied Mathematics** with first class in UoN and is now undertaking Master's course of **Biostatistics** in UW. 
+I obtained my Bachelor's degree of **Mathematics with Applied Mathematics** with first class in UoN and is now undertaking Master's course of **Biostatistics** in UW. 
 
 - **Skills**
 
