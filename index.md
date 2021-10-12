@@ -14,7 +14,7 @@ I am good at data analysis and proficient in perform it on _RStudio, Matlab and 
 
 I took a gap year to work in Prof Bai Ruiliang's Lab focusing on timely measurement of brain plasticity during the finger tapping task in MRI. My interest lies in dealing with clinical problems through mathmatical modeling and statistical analysis. I am now in Seattle and open to any related research opportunities.
 
-And you can find me on Linkin through the following link: (www.linkedin.com/in/lan-shui-2762141a9)
+And you can find me on Linkedin through the following link: (www.linkedin.com/in/lan-shui-2762141a9)
 
 ### Hobbies
 
