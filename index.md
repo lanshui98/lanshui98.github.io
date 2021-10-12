@@ -18,11 +18,11 @@ And you can find me on Linkedin through the following link: (www.linkedin.com/in
 
 ### Hobbies
 
-I love Yoga, Meditation, Photography, Baking and Painting. Always willing to try new things and now is obsseing with **Chanoyu** which is tea ceremony. 
+I love Yoga, Meditation, Photography, Baking and Painting. I am always willing to try new things and now obsseing with **Chanoyu** which is tea ceremony. 
 
-I posted my photography and painting work on Weibo named **Alsa宇宙最可爱** and I will include my baking recipes here if I have time.
+I posted my photography and painting work on Weibo named Alsa宇宙最可爱 and I will include my baking recipes here if I have time.
 
-### You can contact through e-mail
+### You can contact me through e-mail
 
 lshui@uw.edu
 
