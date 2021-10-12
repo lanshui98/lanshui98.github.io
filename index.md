@@ -1,37 +1,23 @@
-## Hi this is Lan Shui
+### Hi this is Lan Shui
 
-You can use the [editor on GitHub](https://github.com/lanshui98/Lan1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I obtained my Bachelor's degree of **Mathematics Applied Mathematics** in UoN and is now undertaking Master's course of **Biostatistics** in UW. 
 
-### Markdown
+I am good at data analysis and proficient in perform it on _RStudio, Matlab and Python_. I am also have a quite comprehensive understanding of statistical models and algrithms like _Survival Analysis, Longitudinal Analysis and Deep Learning_. If you also quite interested in these models, you can follow my GitHub to find relevant contents.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I took a gap year to work in Prof Bai Ruiliang's Lab focusing on timely measurement of brain plasticity during the finger tapping task in MRI. My interest lies in dealing with clinical problems through mathmatical modeling and statistical analysis. I am now in Seattle and open to any related research opportunities.
 
-```markdown
-Syntax highlighted code block
+And you can find me on Linkin through the following link: (www.linkedin.com/in/lan-shui-2762141a9)
 
-# Header 1
-## Header 2
-### Header 3
+### Hobbies
 
-- Bulleted
-- List
+I love Yoga, Meditation, Photography, Baking and Painting. Always willing to try new things and now is obsseing with **Chanoyu** which is tea ceremony. 
 
-1. Numbered
-2. List
+I posted my photography and painting work on Weibo named Alsa宇宙最可爱 and I will include my baking recipes here if I have time.
 
-**Bold** and _Italic_ and `Code` text
+### You can contact through e-mail
 
-[Link](url) and ![Image](src)
-```
+lshui@uw.edu
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lanshui98/Lan1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any questions and conments about me, always feel free to contact me.
