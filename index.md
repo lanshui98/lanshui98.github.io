@@ -1,6 +1,6 @@
 ### Hi this is Lan Shui
 
-### About me[CV.Lan Shui.pdf](https://github.com/lanshui98/lanshui98.github.io/files/7356018/CV.Lan.Shui.pdf)
+### About me
 
 
 **For my resume, follow this link**
