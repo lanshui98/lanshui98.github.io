@@ -22,9 +22,9 @@ And you can find me on Linkedin through the following link: [Linkedin](www.linke
 
 ### Hobbies
 
-I love Yoga, Meditation, Photography, Baking and Painting. I am always willing to try new things and now obsseing with **Chanoyu** which is tea ceremony. 
+I love Yoga which I have been doing this for more than 5 years, Meditation, Photography, Baking and Painting. I am always willing to try new things and now obsseing with **Chanoyu** which is tea ceremony. 
 
-I posted my photography and painting work on [Weibo](https://weibo.com/u/6349230170?is_all=1) and I will include my baking recipes here if I have time.
+I posted my photography and painting work on [Weibo](https://weibo.com/u/6349230170?is_all=1) which for my apologizes is in Chinese but I am now working on my ins acount. I will also include my baking recipes here if I have time.
 
 ### You can contact me through e-mail
 
