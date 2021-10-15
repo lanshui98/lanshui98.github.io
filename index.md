@@ -16,15 +16,15 @@ I am good at data analysis and proficient in perform it on _RStudio, Matlab and 
 
 - **Research background**
 
-I took a gap year to work in [Prof Bai Ruiliang's Lab] (https://person.zju.edu.cn/en/Bai_Lab) focusing on timely measurement of brain plasticity during the finger tapping task in MRI. My interest lies in dealing with clinical problems through mathmatical modeling and statistical analysis. I am now in Seattle and open to any related research opportunities.
+I took a gap year to work in [Prof Bai Ruiliang's Lab](https://person.zju.edu.cn/en/Bai_Lab) focusing on timely measurement of brain plasticity during the finger tapping task in MRI. My interest lies in dealing with clinical problems through mathmatical modeling and statistical analysis. I am now in Seattle and open to any related research opportunities.
 
-And you can find me on Linkedin through the following link: (www.linkedin.com/in/lan-shui-2762141a9)
+And you can find me on Linkedin through the following link: [Linkedin](www.linkedin.com/in/lan-shui-2762141a9)
 
 ### Hobbies
 
 I love Yoga, Meditation, Photography, Baking and Painting. I am always willing to try new things and now obsseing with **Chanoyu** which is tea ceremony. 
 
-I posted my photography and painting work on [Weibo] (https://weibo.com/u/6349230170?is_all=1) and I will include my baking recipes here if I have time.
+I posted my photography and painting work on [Weibo](https://weibo.com/u/6349230170?is_all=1) and I will include my baking recipes here if I have time.
 
 ### You can contact me through e-mail
 
