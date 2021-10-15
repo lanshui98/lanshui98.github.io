@@ -1,6 +1,10 @@
 ### Hi this is Lan Shui
 
-### About me
+### About me[CV.Lan Shui.pdf](https://github.com/lanshui98/lanshui98.github.io/files/7356018/CV.Lan.Shui.pdf)
+
+
+**For my resume, follow this link**
+[CV.Lan Shui.pdf](https://github.com/lanshui98/lanshui98.github.io/files/7356018/CV.Lan.Shui.pdf)
 
 - **Education**
 
@@ -12,7 +16,7 @@ I am good at data analysis and proficient in perform it on _RStudio, Matlab and 
 
 - **Research background**
 
-I took a gap year to work in Prof Bai Ruiliang's Lab focusing on timely measurement of brain plasticity during the finger tapping task in MRI. My interest lies in dealing with clinical problems through mathmatical modeling and statistical analysis. I am now in Seattle and open to any related research opportunities.
+I took a gap year to work in [Prof Bai Ruiliang's Lab] (https://person.zju.edu.cn/en/Bai_Lab) focusing on timely measurement of brain plasticity during the finger tapping task in MRI. My interest lies in dealing with clinical problems through mathmatical modeling and statistical analysis. I am now in Seattle and open to any related research opportunities.
 
 And you can find me on Linkedin through the following link: (www.linkedin.com/in/lan-shui-2762141a9)
 
@@ -20,7 +24,7 @@ And you can find me on Linkedin through the following link: (www.linkedin.com/in
 
 I love Yoga, Meditation, Photography, Baking and Painting. I am always willing to try new things and now obsseing with **Chanoyu** which is tea ceremony. 
 
-I posted my photography and painting work on Weibo named Alsa宇宙最可爱 and I will include my baking recipes here if I have time.
+I posted my photography and painting work on [Weibo] (https://weibo.com/u/6349230170?is_all=1) and I will include my baking recipes here if I have time.
 
 ### You can contact me through e-mail
 
