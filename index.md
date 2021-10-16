@@ -1,8 +1,6 @@
 ### Hi this is Lan Shui
-![IMG_0393](https://user-images.githubusercontent.com/92279132/137599571-bcc4b7c8-01a4-45d4-95c2-a63f577860e7.JPG)
 
 ### About me
-
 
 **For my resume, follow this link**
 [CV.Lan Shui.pdf](https://github.com/lanshui98/lanshui98.github.io/files/7356018/CV.Lan.Shui.pdf)
